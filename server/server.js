@@ -16,7 +16,7 @@ app.use(express.static(path.join(__dirname, "./build")));
 
 // Mock Farmer Database
 const farmers = [
-  { name: 'John Smith', email: 'afreedizulfiker@gmail.com', product: 'potato' },
+  { name: 'John Smith', email: 'pbfgmarketplace@gmail.com', product: 'potato' },
   { name: 'Maria Garcia', email: 'pbfgmarketplace@gmail.com', product: 'tomato' },
   { name: 'David Chen', email: 'pbfgmarketplace@gmail.com', product: 'tomato' }
 ];
